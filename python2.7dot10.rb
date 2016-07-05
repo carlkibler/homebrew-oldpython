@@ -1,4 +1,4 @@
-class Python < Formula
+class Python27dot10 < Formula
   desc "Interpreted, interactive, object-oriented programming language"
   homepage "https://www.python.org"
   head "https://hg.python.org/cpython", :using => :hg, :branch => "2.7"

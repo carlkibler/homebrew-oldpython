@@ -1,4 +1,4 @@
-class Python < Formula
+class Python27dot9 < Formula
   homepage "https://www.python.org"
   head "https://hg.python.org/cpython", :using => :hg, :branch => "2.7"
   url "https://www.python.org/ftp/python/2.7.9/Python-2.7.9.tgz"
